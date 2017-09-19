@@ -1,7 +1,7 @@
 {
-  "0.0.0": {
+  "1.0.0": {
     "title": "PDC Publication License",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "preamble": "I grant everyone a license for the written material I am submitting, to do everything that would otherwise violate exclusive rights under copyrights, mask rights, database rights, and any other intellectual property rights, except:",
     "items": [
       "No one may distribute or display changed copies of my submission without indication of what has been changed.",
